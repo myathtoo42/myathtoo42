@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**myathtoo42/myathtoo42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub!
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://tenor.com/view/anime-gif-24711314.gif" width="300" />
+  <img src="https://tenor.com/view/yoruichi-yoruichi-shih%C5%8Din-bleach-gif-9004752680390950926.gif" width="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎮 Pac-Man Mode Activated
+```text
+     .--.      
+    |o_o |   < Waka Waka...
+    |:_/ |   
+   //   \ \  
+  (|     | )  
+ /'\_   _/`\ 
+ \___)=(___/   Pac-Man eats bugs for me 🍒
+
