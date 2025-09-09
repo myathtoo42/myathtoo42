@@ -1,21 +1,13 @@
-## Hi there 👋
+# Hi, I'm [Myat Htoo]
 
-# 👋 Welcome to My GitHub!
+## About Me
+- I love watching anime and reading manga in my freetime and aslo I play CS2      
+- This is just hobby of mine making some shit code project
+- I'm from fucking earth🌎
+  
+## 📌 Featured Projects
+- 🔗 [Project 1](https://github.com/myathtoo42/WeebCentral-Downloader)
 
-<p align="center">
-  <img src="https://media.tenor.com/IrRsm94JjV0AAAAC/anime.gif" width="300" />
-  <img src="https://media.tenor.com/yPiPjW9Izk0AAAAC/yoruichi-yoruichi-shih%C5%8Din.gif" width="300" />
-</p>
+## 📫 Connect with Me
 
----
-
-### 🎮 Pac-Man Mode Activated
-```text
-     .--.      
-    |o_o |   < Waka Waka...
-    |:_/ |   
-   //   \ \  
-  (|     | )  
- /'\_   _/`\ 
- \___)=(___/   Pac-Man eats bugs for me 🍒
-
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://x.com/myat_htoo21)
