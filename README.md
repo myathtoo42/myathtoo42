@@ -1,4 +1,14 @@
-# 💫 About Me:
-I play CS2 watch anime, and code in my free time is just hobbies.<br>
+## 🐱‍👤 About Me
 
-![](https://github-readme-stats.vercel.app/api?username=myathtoo42&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false)<br/>
+I play CS2, watch anime, and code in my free time as hobbies.
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><img src="https://github.com/myathtoo42/myathtoo42/raw/main/anime.gif" width="250"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=myathtoo42&show_icons=true&theme=tokyonight"></td>
+  </tr>
+</table>
+
+</div>
